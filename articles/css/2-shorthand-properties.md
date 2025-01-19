@@ -84,3 +84,19 @@ For the "/" or magic line, it separates two different properties like rows and c
 So, is shorthand always the best? Not always. Sometimes, it's better to be clear and avoid trouble later. But knowing how to use CSS shorthand properties can save you time and make your code look neater. Once you get these, you can call yourself a shorthand pro!
 
 Experiment on your own, and don't worry about mistakes. Every mix-up brings you closer to getting it right. Dig into the code, it's worth it. Happy coding, guys! 💻🚀
+
+--- 
+
+## References
+
+- [CSS Borders - Shorthand Property](https://www.w3schools.com/css/css_border_shorthand.asp)
+- [CSS Margin](https://www.w3schools.com/css/css_margin.asp)
+- [CSS Background - Shorthand Property](https://www.w3schools.com/css/css_background_shorthand.asp)
+- [CSS Padding](https://www.w3schools.com/css/css_padding.asp)
+- [CSS Font Shorthand Property](https://www.w3schools.com/css/css_font_shorthand.asp)
+- [CSS Outline Shorthand Property](https://www.w3schools.com/css/css_outline_shorthand.asp)
+- [CSS Animation Property](https://www.w3schools.com/cssref/css3_pr_animation.asp)
+- [CSS Flex Property](https://www.w3schools.com/cssref/css3_pr_flex.asp)
+- [CSS Padding Property](https://www.w3schools.com/cssref/pr_padding.asp)
+- [CSS Margin Property](https://www.w3schools.com/cssref/pr_margin.asp)
+
